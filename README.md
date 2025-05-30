@@ -13,7 +13,8 @@ Accurate price predictions help buyers, sellers, and real estate professionals m
 ## Dataset
 
 The Pricing Prediciton model utilizes the "California Housing Prices" obtained from Kaggle.
-  Dataset Source: [Housing Price Prediction Dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices/code?datasetId=5227&sortBy=voteCount)
+
+Dataset Source: [Housing Price Prediction Dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices/code?datasetId=5227&sortBy=voteCount)
 
 ## Technology Used
 - Python
