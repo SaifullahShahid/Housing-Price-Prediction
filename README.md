@@ -1,6 +1,6 @@
 # California House Pricing Prediction Model
 
-This project is submitted by Saifullah Shahid (ARCH-2504-0071) & Faizullah Khan (ARCH-2504-0066) to complete our Task 1 of Manual 1 by Arch Technologies. This project aims to develop a machine learning model capable of estimating house prices based on various property features. 
+This project aims to develop a machine learning model capable of estimating house prices based on various property features. 
 
 
 ## Project Demo
@@ -22,9 +22,7 @@ Dataset Source: [Housing Price Prediction Dataset](https://www.kaggle.com/datase
 - Streamlit for Deployment
 
 
-## Contributors
-- [Saifullah Shahid](https://github.com/SaifullahShahid)
-- [Faizullah Khan](https://github.com/faizullahkhan1)
+
 
 
 
